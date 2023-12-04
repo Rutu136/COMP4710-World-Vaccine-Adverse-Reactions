@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from apyori import apriori
+from mlxtend.frequent_patterns import apriori, association_rules
 
 Data = pd.read_csv('/cleaned_vers_data_2020.csv', header = None)
 
