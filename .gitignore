@@ -5,3 +5,5 @@ owid-covid-data.csv
 covid-19_vaccination_US_Data_2020-2022.csv
 merged_file.csv
 cleaned_vers_data_covid19_vaccine_2020-2022.csv
+cleaned_vers_data_covid19_vaccine_2020-2022_duplicate_removed.csv
+.DS_Store
