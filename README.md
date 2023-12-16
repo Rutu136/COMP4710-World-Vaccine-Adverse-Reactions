@@ -26,6 +26,8 @@ Professor: Carson
 
 ## Accessing the Pre-Processed Dataset (2020-2022)
 
+- Please note that downloading the dataset may require a Kaggle account due to file size restrictions and cloud storage limitations we could not find any free cloud storage other than Kaggle.
+
 - Follow [this link](https://www.kaggle.com/datasets/rutubarvaliya/covid-19-vaccine-adverse-reaction-effect-2020-2022/data?select=cleaned_vers_data_covid19_vaccine_2020-2022_duplicate_removed.csv).
 
 - Download the CSV file named `cleaned_vers_data_covid19_vaccine_2020-2022_duplicate_removed.csv`.
